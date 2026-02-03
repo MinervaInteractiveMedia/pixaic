@@ -1,6 +1,7 @@
 ### pixaic
 
 A small python program that applies photomosaic to a target image extracting tiles from a source image.
+<img width="1920" height="2480" alt="yoyoyoy" src="https://github.com/user-attachments/assets/387353d6-3dc0-4a5e-b901-3dff5b4c4722" />
 
 ---
 
@@ -34,6 +35,7 @@ Real-time preview of the generated photomosaic
 Export to PNG or JPEG
 
 ---
+<img width="1920" height="1270" alt="yoo" src="https://github.com/user-attachments/assets/b23a01fb-7e8b-480a-b99f-e615277c16a9" />
 
 ## How to Use
 
